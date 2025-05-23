@@ -8,7 +8,7 @@ developer: Countryside Properties
 itla: PEP
 total: 746
 ballot: Exempt
-planning: Approved
+planning: Approved by borough - awaiting mayoral approval
 architect: Pollard Thomas Edwards
 image: estates/src/images/alma2.png
 ---
